@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "UberMove", system-ui, "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
